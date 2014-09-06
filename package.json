@@ -1,0 +1,24 @@
+{
+  "name": "numberator",
+  "version": "1.0.0",
+  "description": "Convert a string to a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/numberator.git"
+  },
+  "keywords": [
+    "convert",
+    "string",
+    "number"
+  ],
+  "author": "Bryan Maynard <bsgbryan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/numberator/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/numberator"
+}
